@@ -22,7 +22,7 @@
 //  THE SOFTWARE.
 //
 
-import ReactiveKit
+////import ReactiveKit
 import Foundation
 
 public class RKKeyValueObservable<T>: NSObject, StreamType {
